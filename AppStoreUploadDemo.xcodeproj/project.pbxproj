@@ -44,6 +44,7 @@
 		522498412749AB7B002EC566 /* AppStoreUploadDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AppStoreUploadDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		522498452749AB7B002EC566 /* AppStoreUploadDemoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppStoreUploadDemoUITests.swift; sourceTree = "<group>"; };
 		522498472749AB7B002EC566 /* AppStoreUploadDemoUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppStoreUploadDemoUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		522498542749BB2D002EC566 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +75,7 @@
 		5224981E2749AB73002EC566 = {
 			isa = PBXGroup;
 			children = (
+				522498542749BB2D002EC566 /* README.md */,
 				522498292749AB73002EC566 /* AppStoreUploadDemo */,
 				5224983A2749AB7B002EC566 /* AppStoreUploadDemoTests */,
 				522498442749AB7B002EC566 /* AppStoreUploadDemoUITests */,
@@ -478,7 +480,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = Y6C4X7SSH4;
 				GENERATE_INFOPLIST_FILE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 15.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = de.herised.AppStoreUploadDemoTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -498,7 +500,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = Y6C4X7SSH4;
 				GENERATE_INFOPLIST_FILE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 15.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = de.herised.AppStoreUploadDemoTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
