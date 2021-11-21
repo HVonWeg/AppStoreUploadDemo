@@ -45,6 +45,7 @@
 		522498452749AB7B002EC566 /* AppStoreUploadDemoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppStoreUploadDemoUITests.swift; sourceTree = "<group>"; };
 		522498472749AB7B002EC566 /* AppStoreUploadDemoUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppStoreUploadDemoUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		522498542749BB2D002EC566 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		522498562749C550002EC566 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +97,7 @@
 		522498292749AB73002EC566 /* AppStoreUploadDemo */ = {
 			isa = PBXGroup;
 			children = (
+				522498562749C550002EC566 /* Info.plist */,
 				5224982A2749AB73002EC566 /* AppStoreUploadDemoApp.swift */,
 				5224982C2749AB73002EC566 /* ContentView.swift */,
 				5224982E2749AB7A002EC566 /* Assets.xcassets */,
@@ -424,6 +426,7 @@
 				DEVELOPMENT_TEAM = Y6C4X7SSH4;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = AppStoreUploadDemo/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -453,6 +456,7 @@
 				DEVELOPMENT_TEAM = Y6C4X7SSH4;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = AppStoreUploadDemo/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
