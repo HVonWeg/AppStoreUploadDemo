@@ -99,8 +99,8 @@
 		5224981E2749AB73002EC566 = {
 			isa = PBXGroup;
 			children = (
-				52249857274ACB53002EC566 /* ci_scripts */,
 				522498542749BB2D002EC566 /* README.md */,
+				52249857274ACB53002EC566 /* ci_scripts */,
 				522498292749AB73002EC566 /* AppStoreUploadDemo */,
 				5224983A2749AB7B002EC566 /* AppStoreUploadDemoTests */,
 				522498442749AB7B002EC566 /* AppStoreUploadDemoUITests */,
