@@ -23,3 +23,6 @@ Everything else you need to set up with your own Apple ID and in the Xcode Cloud
 - much more ...
 
 I love it!
+
+## Conclusion
+It remains to be seen what it will cost. However, with some "free" pipelines, e.g. from Azure DevOps, you have a few more options. However, it is very easy to use and takes a lot of work off your hands. I am curious about the final version!
